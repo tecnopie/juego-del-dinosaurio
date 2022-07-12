@@ -1,2 +1,1 @@
-# juego-del-dinosaurio
-tres y los cactus
+# C18_LP_AA1
